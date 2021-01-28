@@ -7,4 +7,5 @@
 * Python for Data Science (IBM) (Instrutor: Joseph Santarcangelo) (Jan/2021)
   - [Types](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-1-1-Types.ipynb)
   - [Strings](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-1-2-Strings.ipynb)
+  - [Tuples](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-2-1-Tuples.ipynb)
 
