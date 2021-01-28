@@ -8,4 +8,5 @@
   - [Types](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-1-1-Types.ipynb)
   - [Strings](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-1-2-Strings.ipynb)
   - [Tuples](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-2-1-Tuples.ipynb)
+  - [Lists](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-2-2-Lists.ipynb)
 
