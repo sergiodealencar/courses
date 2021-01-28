@@ -13,4 +13,5 @@
   - [Dictionaries](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-2-4-Dictionaries.ipynb)
   - [Conditions and Branching](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-3-1-Conditions.ipynb)
   - [Loops](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-3-2-Loops.ipynb)
+  - [Functions](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-3-3-Functions.ipynb)
 
