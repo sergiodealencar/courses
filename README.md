@@ -6,4 +6,5 @@
 * [Tutorial de Machine Learning com o Titanic ](https://github.com/sergiodealencar/courses/blob/main/tutorial_titanic_mario_filho.ipynb) (Instrutor: Mario Filho) (Dez/2020)
 * Python for Data Science (IBM) (Instrutor: Joseph Santarcangelo) (Jan/2021)
   - [Types](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-1-1-Types.ipynb)
+  - [Strings](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-1-2-Strings.ipynb)
 
