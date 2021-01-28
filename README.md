@@ -10,4 +10,5 @@
   - [Tuples](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-2-1-Tuples.ipynb)
   - [Lists](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-2-2-Lists.ipynb)
   - [Sets](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-2-3-Sets.ipynb)
+  - [Dictionaries](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-2-4-Dictionaries.ipynb)
 
