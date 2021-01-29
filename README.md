@@ -1,5 +1,5 @@
 # courses
-
+  Jupyter Notebooks de cursos feitos na área de Data Science
 
 **Jupyter Notebooks:**
 * [Alura Imersão de dados (Análise Exploratória do ENEM 2020)](https://bit.ly/2IPCAh6) (Instrutores: Guilherme Silveira, Thiago Santos e Thainá Mariani) (Oct/2020)
