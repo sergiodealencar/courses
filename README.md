@@ -18,4 +18,4 @@
   - [Exception Handling](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-3-1.2ExcecptionHandling.ipynb)
   - [Reading Files](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-4-1-ReadFile.ipynb)
   - [Write and Save Files](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-4-2-WriteFile.ipynb)
-
+  - [HTTP and Requests](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-5.3_Requests_HTTP.ipynb)
