@@ -16,4 +16,5 @@
   - [Functions](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-3-3-Functions.ipynb)
   - [Classes and Objects](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-3-4-Classes.ipynb)
   - [Exception Handling](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-3-1.2ExcecptionHandling.ipynb)
+  - [Reading Files](https://github.com/sergiodealencar/courses/blob/main/PY0101EN-4-1-ReadFile.ipynb)
 
