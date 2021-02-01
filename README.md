@@ -20,3 +20,6 @@
   - [HTTP and Requests](https://github.com/sergiodealencar/courses/blob/main/material/PY0101EN-5.3_Requests_HTTP.ipynb)
   - [1D Numpy](https://github.com/sergiodealencar/courses/blob/main/material/PY0101EN-5-1-Numpy1D.ipynb)
   - [2D Numpy](https://github.com/sergiodealencar/courses/blob/main/material/PY0101EN-5-2-Numpy2D.ipynb)
+  
+* SQL for Data Analysis (Udacity) (Instrutor: ???) (Fev/2021)
+  - [Lesson 1: SELECT, FROM, LIMIT, ORDER BY, WHERE, LIKE, IN, NOT, AND, OR, BETWEEN](https://github.com/sergiodealencar/courses/blob/main/material/Lesson_1.sql)
