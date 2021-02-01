@@ -25,7 +25,16 @@
   - [Indexing and Selection](https://github.com/sergiodealencar/courses/blob/main/material/numpy/02-Numpy%20Indexing%20and%20Selection.ipynb)
   - [Operations](https://github.com/sergiodealencar/courses/blob/main/material/numpy/03-Numpy%20Operations.ipynb)
   - [Exercises](https://github.com/sergiodealencar/courses/blob/main/material/numpy/05-Numpy%20Exercises%20-%20Solutions.ipynb)
-  
+* Pandas (De: Python for Data Science and Machine Learning Bootcamp) (Udemy) (Instrutor: Jose Portilla) (Jan/2021)
+  - [Introduction](https://github.com/sergiodealencar/courses/blob/main/material/pandas/01-Introduction%20to%20Pandas.ipynb)
+  - [Series](https://github.com/sergiodealencar/courses/blob/main/material/pandas/02-Series.ipynb)
+  - [DataFrames](https://github.com/sergiodealencar/courses/blob/main/material/pandas/03-DataFrames.ipynb)
+  - [Missing Data](https://github.com/sergiodealencar/courses/blob/main/material/pandas/04-Missing%20Data.ipynb)
+  - [Group By](https://github.com/sergiodealencar/courses/blob/main/material/pandas/05-Groupby.ipynb)
+  - [Merging, Joining and Concatenating](https://github.com/sergiodealencar/courses/blob/main/material/pandas/06-Merging%2C%20Joining%2C%20and%20Concatenating.ipynb)
+  - [Operations](https://github.com/sergiodealencar/courses/blob/main/material/pandas/07-Operations.ipynb)
+  - [Data Input and Output](https://github.com/sergiodealencar/courses/blob/main/material/pandas/08-Data%20Input%20and%20Output.ipynb)
+    
 **Scripts:**
 * [Exercícios de Python (Curso em Vídeo)](https://github.com/sergiodealencar/courses/tree/main/material/curso_em_video) (Instrutor: Gustavo Guanabara) (Out/2020)
   
