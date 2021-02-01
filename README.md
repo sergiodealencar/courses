@@ -21,6 +21,9 @@
   - [1D Numpy](https://github.com/sergiodealencar/courses/blob/main/material/PY0101EN-5-1-Numpy1D.ipynb)
   - [2D Numpy](https://github.com/sergiodealencar/courses/blob/main/material/PY0101EN-5-2-Numpy2D.ipynb)
   
+**Scripts:**
+* [Exercícios de Python (Curso em Vídeo)](https://github.com/sergiodealencar/courses/tree/main/material/curso_em_video) (Instrutor: Gustavo Guanabara) (Out/2020)
+  
 **Anotações:**
 * SQL for Data Analysis (Udacity) (Instrutor: Derek Steer) (Fev/2021)
   - [Lesson 1: SELECT, FROM, LIMIT, ORDER BY, WHERE, LIKE, IN, NOT, AND, OR, BETWEEN](https://github.com/sergiodealencar/courses/blob/main/material/Lesson_1.sql)
