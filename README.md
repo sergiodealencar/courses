@@ -26,7 +26,6 @@
   - [Operations](https://github.com/sergiodealencar/courses/blob/main/material/numpy/03-Numpy%20Operations.ipynb)
   - [Exercises](https://github.com/sergiodealencar/courses/blob/main/material/numpy/05-Numpy%20Exercises%20-%20Solutions.ipynb)
 * Pandas (De: Python for Data Science and Machine Learning Bootcamp) (Udemy) (Instrutor: Jose Portilla) (Jan/2021)
-  - [Introduction](https://github.com/sergiodealencar/courses/blob/main/material/pandas/01-Introduction%20to%20Pandas.ipynb)
   - [Series](https://github.com/sergiodealencar/courses/blob/main/material/pandas/02-Series.ipynb)
   - [DataFrames](https://github.com/sergiodealencar/courses/blob/main/material/pandas/03-DataFrames.ipynb)
   - [Missing Data](https://github.com/sergiodealencar/courses/blob/main/material/pandas/04-Missing%20Data.ipynb)
