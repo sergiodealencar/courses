@@ -18,5 +18,5 @@
   - [Reading Files](https://github.com/sergiodealencar/courses/blob/main/material/PY0101EN-4-1-ReadFile.ipynb)
   - [Write and Save Files](https://github.com/sergiodealencar/courses/blob/main/material/PY0101EN-4-2-WriteFile.ipynb)
   - [HTTP and Requests](https://github.com/sergiodealencar/courses/blob/main/material/PY0101EN-5.3_Requests_HTTP.ipynb)
-  - [1D Numpy](https://github.com/sergiodealencar/courses/blob/main/material/material/PY0101EN-5-1-Numpy1D.ipynb)
+  - [1D Numpy](https://github.com/sergiodealencar/courses/blob/main/material/PY0101EN-5-1-Numpy1D.ipynb)
   - [2D Numpy](https://github.com/sergiodealencar/courses/blob/main/material/PY0101EN-5-2-Numpy2D.ipynb)
