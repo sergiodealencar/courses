@@ -1,0 +1,5 @@
+nome = input('Diga o seu nome: ')
+nome_s = nome.split()
+print(nome_s)
+print('Esse nome tem "Silva" em algum lugar?')
+print('Silva' in nome_s)
