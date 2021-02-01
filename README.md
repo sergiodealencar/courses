@@ -20,6 +20,11 @@
   - [HTTP and Requests](https://github.com/sergiodealencar/courses/blob/main/material/PY0101EN-5.3_Requests_HTTP.ipynb)
   - [1D Numpy](https://github.com/sergiodealencar/courses/blob/main/material/PY0101EN-5-1-Numpy1D.ipynb)
   - [2D Numpy](https://github.com/sergiodealencar/courses/blob/main/material/PY0101EN-5-2-Numpy2D.ipynb)
+* Numpy (De: Python for Data Science and Machine Learning Bootcamp) (Udemy) (Instrutor: Jose Portilla) (Jan/2021)
+  - [Arrays](https://github.com/sergiodealencar/courses/blob/main/material/numpy/01-NumPy%20Arrays.ipynb)
+  - [Indexing and Selection](https://github.com/sergiodealencar/courses/blob/main/material/numpy/02-Numpy%20Indexing%20and%20Selection.ipynb)
+  - [Operations](https://github.com/sergiodealencar/courses/blob/main/material/numpy/03-Numpy%20Operations.ipynb)
+  - [Exercises](https://github.com/sergiodealencar/courses/blob/main/material/numpy/05-Numpy%20Exercises%20-%20Solutions.ipynb)
   
 **Scripts:**
 * [Exercícios de Python (Curso em Vídeo)](https://github.com/sergiodealencar/courses/tree/main/material/curso_em_video) (Instrutor: Gustavo Guanabara) (Out/2020)
