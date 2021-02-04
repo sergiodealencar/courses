@@ -41,3 +41,4 @@
 * SQL for Data Analysis (Udacity) (Instrutor: Derek Steer) (Fev/2021)
   - [Lesson 1: SELECT, FROM, LIMIT, ORDER BY, WHERE, LIKE, IN, NOT, AND, OR, BETWEEN](https://github.com/sergiodealencar/courses/blob/main/material/Lesson_1.sql)
   - [Lesson 2: Alias, Primary Key, Foreign Key, INNER JOIN, LEFT JOIN](https://github.com/sergiodealencar/courses/blob/main/material/Lesson_2.sql)
+  - [Lesson 3: Aggregations, SUM, AVG, COUNT, CASE, HAVING DATE](https://github.com/sergiodealencar/courses/blob/main/material/Lesson_3.sql)
